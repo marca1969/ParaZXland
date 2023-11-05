@@ -1,7 +1,7 @@
 ParaZXland
 ==========  
-A ZX Spectrum game by Massimiliano Arca, entirely coded in Boriel ZX
-Basic for the ByteManiacos Concurso Basic 2023.
+A ZX Spectrum game by Massimiliano Arca (massimiliano.arca _at_ tiscali.it; Cagliari, Italy), 
+entirely coded in Boriel ZX Basic for the ByteManiacos Concurso Basic 2023.
 
  
 What ParaZXland is and what it is not
