@@ -1,12 +1,12 @@
 /' ParaZXland 
    Boriel ZX Basic version 
-   2023 -- By Massimiliano Arca
+   2024 -- By Massimiliano Arca
  
    ParaZXland only uses built-in functions without ASM commands
 
    No parachutists have been harmed during the development of this game
    
-   Rev. 24/10/2023
+   Rev. 04/10/2024
 '/
 
 'Subroutines
@@ -656,8 +656,8 @@ do
         print        "0. The parachute can be directed";
         print        "with  the  default keys O and P,";
         print        "which  can be  freely  redefined";
-        print        "(option  1).  The  longest   our";
-        print        "hero survives,  the  highest the";
+        print        "(option  1).   The  longer   our";
+        print        "hero  survives,  the  higher the";
         print        "score. To the hi-score a code is";
         print        "associated,so that it can be re-";
         print        "entered in later gameplays (opti";
